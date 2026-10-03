@@ -3,23 +3,13 @@
 <h3 align="center">Web Engineer · AI Agents · Harness Engineering</h3>
 
 <p align="center">
-  Web products, native macOS apps and AI agents.<br>
-  Harness engineering, tool integration and AI workflows.
+  I build web products and native macOS apps.<br>
+  AI workflows, agent orchestration and tool integration.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tom%C3%A1s-fernandez-murga-9923a7247/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/links/dark/linkedin.svg">
-      <img src="assets/links/light/linkedin.svg" width="136" height="44" alt="LinkedIn">
-    </picture>
-  </a>
-  <a href="https://tomasfm.dev/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/links/dark/portfolio.svg">
-      <img src="assets/links/light/portfolio.svg" width="136" height="44" alt="Portfolio · tomasfm.dev">
-    </picture>
-  </a>
+  <a href="https://www.linkedin.com/in/tom%C3%A1s-fernandez-murga-9923a7247/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/dark/linkedin.svg"><img src="assets/links/light/linkedin.svg" width="136" height="44" alt="LinkedIn"></picture></a>
+  <a href="https://tomasfm.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/dark/portfolio.svg"><img src="assets/links/light/portfolio.svg" width="136" height="44" alt="Portfolio · tomasfm.dev"></picture></a>
 </p>
 
 <br>
