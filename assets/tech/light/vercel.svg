@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="96" viewBox="0 0 80 96" role="img" aria-label="Vercel">
+<defs><linearGradient id="surface" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f2f3f5"/></linearGradient></defs>
+<rect x="10" y="9" width="60" height="60" rx="15" fill="#000000" opacity="0.05"/>
+<rect x="10.5" y="5.5" width="59" height="59" rx="14.5" fill="url(#surface)" stroke="#d7dce2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="22" y="17" width="36" height="36"><path d="M64.002 8.576 128 119.424H0Zm0 0"/></svg>
+<text x="40" y="84" text-anchor="middle" fill="#424a53" font-family="-apple-system, BlinkMacSystemFont, Inter, sans-serif" font-size="10">Vercel</text>
+</svg>
