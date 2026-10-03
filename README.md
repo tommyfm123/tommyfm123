@@ -12,7 +12,7 @@ I build web products, native macOS apps and AI tools. Currently working on inclu
 
 <table>
   <tr>
-    <td width="76" align="center"><a href="https://github.com/tommyfm123/Parsec-Browser"><img src="assets/projects/parsec.png" width="56" height="56" alt="Parsec original logo"></a></td>
+    <td width="76" align="center"><a href="https://github.com/tommyfm123/Parsec-Browser"><img src="assets/projects/parsec-app-icon.png" width="56" height="56" alt="Parsec original logo"></a></td>
     <td><strong><a href="https://github.com/tommyfm123/Parsec-Browser">Parsec</a></strong><br>Native macOS browser with WebKit, AI assistants and MCP integrations.</td>
   </tr>
   <tr>
@@ -24,11 +24,11 @@ I build web products, native macOS apps and AI tools. Currently working on inclu
     <td><strong><a href="https://zelmiralearning.com/">Zelmira</a></strong><br>AI tools that create and adapt educational materials for different learning needs.</td>
   </tr>
   <tr>
-    <td width="76" align="center"><img src="assets/projects/orion.png" width="56" height="56" alt="Orion original logo"></td>
+    <td width="76" align="center"><img src="assets/projects/orion-app-icon.png" width="56" height="56" alt="Orion original logo"></td>
     <td><strong>Orion</strong><br>On-device voice dictation for macOS, with local transcription and text editing.</td>
   </tr>
   <tr>
-    <td width="76" align="center"><a href="https://cosifind.com/"><img src="assets/projects/cosifind.svg" width="56" height="56" alt="CosiFind original logo"></a></td>
+    <td width="76" align="center"><a href="https://cosifind.com/"><img src="assets/projects/cosifind-icon.svg" width="56" height="56" alt="CosiFind original logo"></a></td>
     <td><strong><a href="https://cosifind.com/">CosiFind</a></strong><br>Find products in nearby stores, compare prices and contact sellers directly.</td>
   </tr>
 </table>
