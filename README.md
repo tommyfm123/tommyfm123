@@ -28,7 +28,7 @@ I build web products, native macOS apps and AI tools. Currently working on inclu
     <td><strong>Orion</strong><br>On-device voice dictation for macOS, with local transcription and text editing.</td>
   </tr>
   <tr>
-    <td width="76" align="center"><a href="https://cosifind.com/"><img src="assets/projects/cosifind-icon.svg" width="56" height="56" alt="CosiFind original logo"></a></td>
+    <td width="76" align="center"><a href="https://cosifind.com/"><img src="assets/projects/cosifind.png" width="56" height="56" alt="CosiFind original logo"></a></td>
     <td><strong><a href="https://cosifind.com/">CosiFind</a></strong><br>Find products in nearby stores, compare prices and contact sellers directly.</td>
   </tr>
 </table>

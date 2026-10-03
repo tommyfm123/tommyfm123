@@ -1,6 +1,6 @@
 # Asset provenance
 
-Project marks come from existing application assets. PNG originals are unchanged. The CosiFind symbol uses the unchanged vector paths and color from its existing logo component, placed on a neutral container for legibility in both themes. Its original vector is retained in `projects/originals`.
+Project marks come from existing application assets. PNG originals are unchanged. CosiFind uses the unchanged `LogoMobile.png` from its current web application, identified by `src/constants/brand.constant.ts`.
 
 | Project | Original source |
 | --- | --- |
@@ -8,7 +8,7 @@ Project marks come from existing application assets. PNG originals are unchanged
 | Angio | `tommyfm123/Angio` · `Resources/AppIcon.png` |
 | Zelmira | `zelmiralearning/zelmichat` · `apps/web/public/img/logo-z-transparent.png` |
 | Orion | `tommyfm123/Orion` · `native/macos/Sources/Orion/Resources/OrionLogo.png` |
-| CosiFind | `tommyfm123/Cosifind-Proyect` · `components/common/Logo.tsx` · `logogram` |
+| CosiFind | `rollingcodestudio/cosifind-web` · `public/assets/LogoMobile.png` |
 
 Technology logos are original SVG assets from [Devicon](https://github.com/devicons/devicon), whose collection preserves technology branding. Unmodified source files are retained in `tech/originals`. Display assets add a neutral rounded container and technology label around each original logo; paths and brand colors are unchanged. Light and dark variants only change the label color.
 
