@@ -6,6 +6,7 @@ Project marks come from existing application assets. PNG originals are unchanged
 | --- | --- |
 | Parsec | `tommyfm123/Parsec-Browser` · `Support/Resources/AppIcons/Black.png` |
 | Angio | `tommyfm123/Angio` · `Resources/AppIcon.png` |
+| Motion | `tommyfm123/Motion` · `Motion/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png` |
 | Zelmira | `zelmiralearning/zelmichat` · `apps/web/public/img/logo-z-transparent.png` |
 | Orion | `tommyfm123/Orion` · `native/macos/Sources/Orion/Resources/OrionLogo.png` |
 | CosiFind | `rollingcodestudio/cosifind-web` · `public/assets/LogoMobile.png` |

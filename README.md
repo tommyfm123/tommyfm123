@@ -26,6 +26,10 @@
     <td><strong><a href="https://github.com/tommyfm123/Angio">Angio</a></strong><br>Native macOS viewer for DICOM angiography, IVUS and medical video.</td>
   </tr>
   <tr>
+    <td width="76" align="center"><a href="https://github.com/tommyfm123/Motion"><img src="assets/projects/motion-app-icon.png" width="56" height="56" alt="Motion original app icon"></a></td>
+    <td><strong><a href="https://github.com/tommyfm123/Motion">Motion</a></strong><br>Touchless trackpad for macOS, powered by on-device webcam hand tracking.</td>
+  </tr>
+  <tr>
     <td width="76" align="center"><a href="https://zelmiralearning.com/"><img src="assets/projects/zelmira.png" width="56" height="56" alt="Zelmira original logo"></a></td>
     <td><strong><a href="https://zelmiralearning.com/">Zelmira</a></strong><br>AI tools that create and adapt educational materials for different learning needs.</td>
   </tr>
